@@ -1,5 +1,13 @@
 # Altera fundo (PROJETO PARA ESTUDO)
 
+<img src="./imagens/imagem1.png" width="600" align="center">
+
+<img src="./imagens/capa.png" width="600" align="center">
+
+![Tela inicial](./imagens/imagem1.png)
+
+![Aplicação funcionando](./imagens/capa.png)
+
 ## O projeto
 Este projeto é uma página em HTML, CSS e JS e, contém botões coloridos para o usuário alterar a cor do fundo da página.
 
