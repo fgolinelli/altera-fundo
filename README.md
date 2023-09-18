@@ -1,22 +1,17 @@
 # Altera fundo (PROJETO PARA ESTUDO)
 
-<img src="./imagens/imagem1.png" width="600" align="center">
+<img src="./imagens/imagem1.png" style="  display: block; margin-left: auto; margin-right: auto; width: 70%;">
 
-<img src="./imagens/capa.png" width="600" align="center">
 
-![Tela inicial](./imagens/imagem1.png)
-
-![Aplicação funcionando](./imagens/capa.png)
-
-## O projeto
+## 🏗️ O projeto
 Este projeto é uma página em HTML, CSS e JS e, contém botões coloridos para o usuário alterar a cor do fundo da página.
 
-## Como rodar o projeto
+## 💡 Como rodar o projeto
 Bastar clicar duas vezes no arquivo *index.html* da pasta de projeto.
 
 Alternativamente, pode usar a extensão a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) da IDE Visual Studio Code para rodar.
 
-## Como usar o projeto
+## 👨‍💻 Como usar o projeto
 Uma vez que a aplicação esteja rodando, clique no círculo cinza para alterar a cor do fundo para cinza.
 
 ## Tecnologias usadas no projeto

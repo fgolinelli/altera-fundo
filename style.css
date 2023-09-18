@@ -1,5 +1,6 @@
 body{
-    margin: 0;
+    margin: auto;
+    height: 500px;
     display: flex;
     flex-direction: column;
     background-color: rgb(196, 243, 152);
