@@ -1,9 +1,10 @@
 # Altera fundo (PROJETO PARA ESTUDO)
+![](https://img.shields.io/github/repo-size/fgolinelli/altera-fundo?label=Tamanho&color=green
+)
 
 <img src="./imagens/imagem1.png" style="  display: block; margin-left: auto; margin-right: auto; width: 70%;">
 
-
-## 🏗️ O projeto
+## 🏗️ O projeto 
 Este projeto é uma página em HTML, CSS e JS e, contém botões coloridos para o usuário alterar a cor do fundo da página.
 
 ## 💡 Como rodar o projeto
@@ -51,3 +52,6 @@ O projeto não tem dependências.
 
 ## Precisa de ajuda?
 - Fernando Golinelli (mantenedor) - fernando@golinelli.eti.br
+
+-----------
+Feito por Fernando Golinelli
